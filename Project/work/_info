@@ -1,0 +1,269 @@
+m255
+K4
+z2
+13
+cModel Technology
+Z0 dC:/Users/shashkov/Dropbox/Work/DDS/Project
+!s112 0.1
+!i10d 8192
+!i10e 25
+!i10f 100
+vcos_rom
+Z1 DXx6 sv_std 3 std 0 22 `a<MJET1=lN@jzbA7kHm;1
+Z2 !s110 1457173304
+I?G>`QzOf2lH@7DXmS0S8?2
+Z3 V`JN@9S9cnhjKRR_L]QIcM3
+S1
+Z4 dC:/Users/shashkov/Dropbox/Work/DDS/Project
+w1456912685
+8C:/Users/shashkov/Dropbox/Work/DDS/Project/src/cos_rom.sv
+FC:/Users/shashkov/Dropbox/Work/DDS/Project/src/cos_rom.sv
+L0 3
+Z5 OL;L;10.2c;57
+r1
+31
+Z6 o-work work -sv -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z7 !s92 -work work -sv +incdir+C:/Users/shashkov/Dropbox/Work/DDS/Project/src -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s100 0QfN7E=3kOoK]0:ohW`8J1
+!s105 cos_rom_sv_unit
+!s90 -reportprogress|300|-work|work|-vopt|-sv|+incdir+C:/Users/shashkov/Dropbox/Work/DDS/Project/src|C:/Users/shashkov/Dropbox/Work/DDS/Project/src/cos_rom.sv|
+!s108 1457173304.842000
+!s107 C:/Users/shashkov/Dropbox/Work/DDS/Project/src/config.sv|C:/Users/shashkov/Dropbox/Work/DDS/Project/src/cos_rom.sv|
+!i10b 1
+!s85 0
+!i111 0
+vcos_sym_opt_rom
+R1
+R3
+r1
+31
+I1F:DM1^6RS12LIo9h[NQ>3
+S1
+R4
+w1457167147
+8C:/Users/shashkov/Dropbox/Work/DDS/Project/src/cos_sym_opt_rom.sv
+FC:/Users/shashkov/Dropbox/Work/DDS/Project/src/cos_sym_opt_rom.sv
+L0 3
+R5
+R6
+R7
+!s100 1dzRAH^Wbdhoeg6alHRU?2
+!s105 cos_sym_opt_rom_sv_unit
+!s90 -reportprogress|300|-work|work|-vopt|-sv|+incdir+C:/Users/shashkov/Dropbox/Work/DDS/Project/src|C:/Users/shashkov/Dropbox/Work/DDS/Project/src/cos_sym_opt_rom.sv|
+!s108 1457173305.911000
+!s107 C:/Users/shashkov/Dropbox/Work/DDS/Project/src/config.sv|C:/Users/shashkov/Dropbox/Work/DDS/Project/src/cos_sym_opt_rom.sv|
+!s85 0
+!i10b 1
+!i111 0
+vdds_top
+R1
+R3
+r1
+31
+IdW2@OgGmDbn5BhBU5IbGY3
+S1
+R4
+w1457171689
+8C:/Users/shashkov/Dropbox/Work/DDS/Project/src/dds_top.sv
+FC:/Users/shashkov/Dropbox/Work/DDS/Project/src/dds_top.sv
+L0 3
+R5
+R6
+R7
+!s100 CkWY;^K4<TQ^S7PLnJ2Sh3
+!s105 dds_top_sv_unit
+!s90 -reportprogress|300|-work|work|-vopt|-sv|+incdir+C:/Users/shashkov/Dropbox/Work/DDS/Project/src|C:/Users/shashkov/Dropbox/Work/DDS/Project/src/dds_top.sv|
+!s108 1457173305.012000
+!s107 C:/Users/shashkov/Dropbox/Work/DDS/Project/src/config.sv|C:/Users/shashkov/Dropbox/Work/DDS/Project/src/dds_top.sv|
+!s85 0
+!i10b 1
+!i111 0
+vdds_top_tb
+R1
+R3
+r1
+!s85 0
+31
+Ie>aTjdcDZOEI;DPeO=9dc2
+!s105 dds_top_tb_sv_unit
+S1
+R4
+w1457173853
+8C:/Users/shashkov/Dropbox/Work/DDS/Project/src/dds_top_tb.sv
+FC:/Users/shashkov/Dropbox/Work/DDS/Project/src/dds_top_tb.sv
+L0 3
+R5
+!s90 -reportprogress|300|-work|work|-vopt|-sv|+incdir+C:/Users/shashkov/Dropbox/Work/DDS/Project/src|C:/Users/shashkov/Dropbox/Work/DDS/Project/src/dds_top_tb.sv|
+R6
+R7
+!i10b 1
+!s100 AdVd2z^icmizDA6I03W_o0
+!s108 1457173857.486000
+!s107 C:/Users/shashkov/Dropbox/Work/DDS/Project/src/config.sv|C:/Users/shashkov/Dropbox/Work/DDS/Project/src/dds_top_tb.sv|
+!i111 0
+vminus_sin_rom
+R1
+ILmnoJE1N>1^Hi?5G0<IK`3
+R3
+S1
+R4
+w1456905992
+8C:/Users/shashkov/Dropbox/Work/DDS/Project/src/minus_sin_rom.sv
+FC:/Users/shashkov/Dropbox/Work/DDS/Project/src/minus_sin_rom.sv
+L0 3
+R5
+r1
+31
+R6
+R7
+R2
+!s100 ji68Qf482W?bM[Od]JeVa2
+!s105 minus_sin_rom_sv_unit
+!s90 -reportprogress|300|-work|work|-vopt|-sv|+incdir+C:/Users/shashkov/Dropbox/Work/DDS/Project/src|C:/Users/shashkov/Dropbox/Work/DDS/Project/src/minus_sin_rom.sv|
+!s108 1457173304.130000
+!s107 C:/Users/shashkov/Dropbox/Work/DDS/Project/src/config.sv|C:/Users/shashkov/Dropbox/Work/DDS/Project/src/minus_sin_rom.sv|
+!i10b 1
+!s85 0
+!i111 0
+vminus_sin_rom_tb
+R1
+R2
+IedJZdb7[:k[EYfQFIFodF3
+R3
+S1
+R4
+w1456496449
+8C:/Users/shashkov/Dropbox/Work/DDS/Project/src/minus_sin_rom_tb.sv
+FC:/Users/shashkov/Dropbox/Work/DDS/Project/src/minus_sin_rom_tb.sv
+L0 3
+R5
+r1
+31
+R6
+R7
+!s100 UQK4EkCOZg2khFCC9GEbQ1
+!s105 minus_sin_rom_tb_sv_unit
+!s90 -reportprogress|300|-work|work|-vopt|-sv|+incdir+C:/Users/shashkov/Dropbox/Work/DDS/Project/src|C:/Users/shashkov/Dropbox/Work/DDS/Project/src/minus_sin_rom_tb.sv|
+!s108 1457173304.320000
+!s107 C:/Users/shashkov/Dropbox/Work/DDS/Project/src/config.sv|C:/Users/shashkov/Dropbox/Work/DDS/Project/src/minus_sin_rom_tb.sv|
+!i10b 1
+!s85 0
+!i111 0
+vminus_sin_sym_opt_rom
+R1
+R3
+r1
+31
+I3ZMGTzAV=E<oBlU4H3W5B3
+S1
+R4
+w1457167162
+8C:/Users/shashkov/Dropbox/Work/DDS/Project/src/minus_sin_sym_opt_rom.sv
+FC:/Users/shashkov/Dropbox/Work/DDS/Project/src/minus_sin_sym_opt_rom.sv
+L0 3
+R5
+R6
+R7
+!s100 aanH;^9:CWdE[N;CMPXMi1
+!s105 minus_sin_sym_opt_rom_sv_unit
+!s90 -reportprogress|300|-work|work|-vopt|-sv|+incdir+C:/Users/shashkov/Dropbox/Work/DDS/Project/src|C:/Users/shashkov/Dropbox/Work/DDS/Project/src/minus_sin_sym_opt_rom.sv|
+!s108 1457173305.727000
+!s107 C:/Users/shashkov/Dropbox/Work/DDS/Project/src/config.sv|C:/Users/shashkov/Dropbox/Work/DDS/Project/src/minus_sin_sym_opt_rom.sv|
+!s85 0
+!i10b 1
+!i111 0
+vsigned_mult
+R1
+R3
+r1
+31
+IdRFT@bBVN[;Y]Jig07n0T1
+S1
+R4
+w1456679287
+8C:/Users/shashkov/Dropbox/Work/DDS/Project/src/signed_mult.sv
+FC:/Users/shashkov/Dropbox/Work/DDS/Project/src/signed_mult.sv
+L0 3
+R5
+R6
+R7
+!s100 DB=4IY9aaF<6`bzfQ>Fnn2
+!s105 signed_mult_sv_unit
+!s90 -reportprogress|300|-work|work|-vopt|-sv|+incdir+C:/Users/shashkov/Dropbox/Work/DDS/Project/src|C:/Users/shashkov/Dropbox/Work/DDS/Project/src/signed_mult.sv|
+!s108 1457173304.467000
+!s107 C:/Users/shashkov/Dropbox/Work/DDS/Project/src/config.sv|C:/Users/shashkov/Dropbox/Work/DDS/Project/src/signed_mult.sv|
+!s85 0
+!i10b 1
+!i111 0
+vsigned_mult_tb
+R1
+R2
+I>`_d6HeBf>[U7N`g4ONR42
+R3
+S1
+R4
+w1456739884
+8C:/Users/shashkov/Dropbox/Work/DDS/Project/src/signed_mult_tb.sv
+FC:/Users/shashkov/Dropbox/Work/DDS/Project/src/signed_mult_tb.sv
+L0 3
+R5
+r1
+31
+R6
+R7
+!s100 gDRL?=i?bk<>JIfWRh]FI2
+!s105 signed_mult_tb_sv_unit
+!s90 -reportprogress|300|-work|work|-vopt|-sv|+incdir+C:/Users/shashkov/Dropbox/Work/DDS/Project/src|C:/Users/shashkov/Dropbox/Work/DDS/Project/src/signed_mult_tb.sv|
+!s108 1457173304.672000
+!s107 C:/Users/shashkov/Dropbox/Work/DDS/Project/src/config.sv|C:/Users/shashkov/Dropbox/Work/DDS/Project/src/signed_mult_tb.sv|
+!i10b 1
+!s85 0
+!i111 0
+vunsigned_mult
+R1
+IE3;j@G[_CeeI58n2JlT[;0
+R3
+S1
+R4
+w1456679637
+8C:/Users/shashkov/Dropbox/Work/DDS/Project/src/unsigned_mult.sv
+FC:/Users/shashkov/Dropbox/Work/DDS/Project/src/unsigned_mult.sv
+L0 3
+R5
+r1
+31
+R6
+R7
+Z8 !s110 1456739730
+!s100 7lNGCk;n_jd6HzcAdbQL03
+!s105 unsigned_mult_sv_unit
+!s90 -reportprogress|300|-work|work|-vopt|-sv|+incdir+C:/Users/shashkov/Dropbox/Work/DDS/Project/src|C:/Users/shashkov/Dropbox/Work/DDS/Project/src/unsigned_mult.sv|
+!s108 1456739730.155000
+!s107 C:/Users/shashkov/Dropbox/Work/DDS/Project/src/config.sv|C:/Users/shashkov/Dropbox/Work/DDS/Project/src/unsigned_mult.sv|
+!i10b 1
+!s85 0
+!i111 0
+vunsigned_mult_tb
+R1
+R8
+I<A_b6:`_:gTeAW7]S^aD>2
+R3
+S1
+R4
+w1456739613
+8C:/Users/shashkov/Dropbox/Work/DDS/Project/src/unsigned_mult_tb.sv
+FC:/Users/shashkov/Dropbox/Work/DDS/Project/src/unsigned_mult_tb.sv
+L0 3
+R5
+r1
+31
+R6
+R7
+!s105 unsigned_mult_tb_sv_unit
+!s90 -reportprogress|300|-work|work|-vopt|-sv|+incdir+C:/Users/shashkov/Dropbox/Work/DDS/Project/src|C:/Users/shashkov/Dropbox/Work/DDS/Project/src/unsigned_mult_tb.sv|
+!s100 81N0chU?gIf`2WjRHHz0L3
+!s108 1456739730.651000
+!s107 C:/Users/shashkov/Dropbox/Work/DDS/Project/src/config.sv|C:/Users/shashkov/Dropbox/Work/DDS/Project/src/unsigned_mult_tb.sv|
+!i10b 1
+!s85 0
+!i111 0

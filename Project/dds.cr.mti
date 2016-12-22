@@ -1,0 +1,67 @@
+C:/Users/shashkov/Dropbox/Work/DDS/Project/src/signed_mult_tb.sv {1 {vlog -work work -vopt -sv +incdir+C:/Users/shashkov/Dropbox/Work/DDS/Project/src C:/Users/shashkov/Dropbox/Work/DDS/Project/src/signed_mult_tb.sv
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module signed_mult_tb
+
+Top level modules:
+	signed_mult_tb
+
+} {} {}} C:/Users/shashkov/Dropbox/Work/DDS/Project/src/minus_sin_sym_opt_rom.sv {1 {vlog -work work -vopt -sv +incdir+C:/Users/shashkov/Dropbox/Work/DDS/Project/src C:/Users/shashkov/Dropbox/Work/DDS/Project/src/minus_sin_sym_opt_rom.sv
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module minus_sin_sym_opt_rom
+
+Top level modules:
+	minus_sin_sym_opt_rom
+
+} {} {}} C:/Users/shashkov/Dropbox/Work/DDS/Project/src/cos_sym_opt_rom.sv {1 {vlog -work work -vopt -sv +incdir+C:/Users/shashkov/Dropbox/Work/DDS/Project/src C:/Users/shashkov/Dropbox/Work/DDS/Project/src/cos_sym_opt_rom.sv
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module cos_sym_opt_rom
+
+Top level modules:
+	cos_sym_opt_rom
+
+} {} {}} C:/Users/shashkov/Dropbox/Work/DDS/Project/src/dds_top.sv {1 {vlog -work work -vopt -sv +incdir+C:/Users/shashkov/Dropbox/Work/DDS/Project/src C:/Users/shashkov/Dropbox/Work/DDS/Project/src/dds_top.sv
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module dds_top
+
+Top level modules:
+	dds_top
+
+} {} {}} C:/Users/shashkov/Dropbox/Work/DDS/Project/src/minus_sin_rom.sv {1 {vlog -work work -vopt -sv +incdir+C:/Users/shashkov/Dropbox/Work/DDS/Project/src C:/Users/shashkov/Dropbox/Work/DDS/Project/src/minus_sin_rom.sv
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module minus_sin_rom
+
+Top level modules:
+	minus_sin_rom
+
+} {} {}} C:/Users/shashkov/Dropbox/Work/DDS/Project/src/cos_rom.sv {1 {vlog -work work -vopt -sv +incdir+C:/Users/shashkov/Dropbox/Work/DDS/Project/src C:/Users/shashkov/Dropbox/Work/DDS/Project/src/cos_rom.sv
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module cos_rom
+
+Top level modules:
+	cos_rom
+
+} {} {}} C:/Users/shashkov/Dropbox/Work/DDS/Project/src/config.sv {1 {vlog -work work -vopt -sv +incdir+C:/Users/shashkov/Dropbox/Work/DDS/Project/src C:/Users/shashkov/Dropbox/Work/DDS/Project/src/config.sv
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+
+} {} {}} C:/Users/shashkov/Dropbox/Work/DDS/Project/src/dds_top_tb.sv {1 {vlog -work work -vopt -sv +incdir+C:/Users/shashkov/Dropbox/Work/DDS/Project/src C:/Users/shashkov/Dropbox/Work/DDS/Project/src/dds_top_tb.sv
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module dds_top_tb
+
+Top level modules:
+	dds_top_tb
+
+} {} {}} C:/Users/shashkov/Dropbox/Work/DDS/Project/src/minus_sin_rom_tb.sv {1 {vlog -work work -vopt -sv +incdir+C:/Users/shashkov/Dropbox/Work/DDS/Project/src C:/Users/shashkov/Dropbox/Work/DDS/Project/src/minus_sin_rom_tb.sv
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module minus_sin_rom_tb
+
+Top level modules:
+	minus_sin_rom_tb
+
+} {} {}} C:/Users/shashkov/Dropbox/Work/DDS/Project/src/signed_mult.sv {1 {vlog -work work -vopt -sv +incdir+C:/Users/shashkov/Dropbox/Work/DDS/Project/src C:/Users/shashkov/Dropbox/Work/DDS/Project/src/signed_mult.sv
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module signed_mult
+
+Top level modules:
+	signed_mult
+
+} {} {}}
